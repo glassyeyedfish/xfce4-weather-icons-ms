@@ -7,4 +7,4 @@ https://github.com/microsoft/fluentui-system-icons
 ## Instal Instructions
 
 1. Copy "ms-light" and "ms-dark" into "$HOME/.config/xfce4/weather/icons/" 
-2. Update the theme in the Appearance settings of the
+2. Update the theme in the Appearance settings of the applet.
